@@ -1,6 +1,6 @@
 Hi people :)
 
-I studie Informatical Biomedicals and I am really excited for new challenges!
+I study Informatical Biomedicals and I am really excited for new challenges!
 
 Today I am an Intern at a enterprise and currently working as Technical Support. 
 

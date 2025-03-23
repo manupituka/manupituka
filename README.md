@@ -1,4 +1,10 @@
-## Hi there 👋
+Hi people :)
+
+I studie Informatical Biomedicals and I am really excited for new challenges!
+
+Today I am an Intern at a enterprise and currently working as Technical Support. 
+
+
 
 <!--
 **manupituka/manupituka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
